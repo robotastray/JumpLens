@@ -1,0 +1,122 @@
+[
+  {
+    "ATHLETE": "DEVETZI",
+    "HOP_m": 5.75,
+    "HOP_%": 37.7,
+    "STEP_m": 4.39,
+    "STEP_%": 28.8,
+    "JUMP_m": 5.11,
+    "JUMP_%": 33.5,
+    "TECHNIQUE": "Hop dominated"
+  },
+  {
+    "ATHLETE": "SAVIGNE",
+    "HOP_m": 5.71,
+    "HOP_%": 37.6,
+    "STEP_m": 4.26,
+    "STEP_%": 28.1,
+    "JUMP_m": 5.20,
+    "JUMP_%": 34.3,
+    "TECHNIQUE": "Hop dominated"
+  },
+  {
+    "ATHLETE": "SESTAK",
+    "HOP_m": 4.90,
+    "HOP_%": 32.7,
+    "STEP_m": 4.61,
+    "STEP_%": 30.8,
+    "JUMP_m": 5.46,
+    "JUMP_%": 36.5,
+    "TECHNIQUE": "Jump dominated"
+  },
+  {
+    "ATHLETE": "SALADUHA",
+    "HOP_m": 5.40,
+    "HOP_%": 36.5,
+    "STEP_m": 4.52,
+    "STEP_%": 30.6,
+    "JUMP_m": 4.86,
+    "JUMP_%": 32.9,
+    "TECHNIQUE": "Hop dominated"
+  },
+  {
+    "ATHLETE": "VELDAKOVA",
+    "HOP_m": 5.19,
+    "HOP_%": 35.9,
+    "STEP_m": 4.17,
+    "STEP_%": 28.9,
+    "JUMP_m": 5.08,
+    "JUMP_%": 35.1,
+    "TECHNIQUE": "Balanced"
+  },
+  {
+    "ATHLETE": "de OLIVEIRA",
+    "HOP_m": 5.38,
+    "HOP_%": 37.8,
+    "STEP_m": 3.92,
+    "STEP_%": 27.5,
+    "JUMP_m": 4.93,
+    "JUMP_%": 34.7,
+    "TECHNIQUE": "Hop dominated"
+  },
+  {
+    "ATHLETE": "KULYK",
+    "HOP_m": 5.49,
+    "HOP_%": 38.9,
+    "STEP_m": 4.12,
+    "STEP_%": 29.2,
+    "JUMP_m": 4.50,
+    "JUMP_%": 31.9,
+    "TECHNIQUE": "Hop dominated"
+  },
+  {
+    "ATHLETE": "TOPIC",
+    "HOP_m": 4.90,
+    "HOP_%": 34.6,
+    "STEP_m": 4.28,
+    "STEP_%": 30.3,
+    "JUMP_m": 4.96,
+    "JUMP_%": 35.1,
+    "TECHNIQUE": "Balanced"
+  },
+  {
+    "ATHLETE": "DIMITRAKI",
+    "HOP_m": 4.88,
+    "HOP_%": 36.1,
+    "STEP_m": 4.03,
+    "STEP_%": 29.9,
+    "JUMP_m": 4.59,
+    "JUMP_%": 34.0,
+    "TECHNIQUE": "Hop dominated"
+  },
+  {
+    "ATHLETE": "PANETA",
+    "HOP_m": 4.99,
+    "HOP_%": 36.9,
+    "STEP_m": 3.96,
+    "STEP_%": 29.3,
+    "JUMP_m": 4.57,
+    "JUMP_%": 33.8,
+    "TECHNIQUE": "Hop dominated"
+  },
+  {
+    "ATHLETE": "Mean (n=10)",
+    "HOP_m": 5.27,
+    "HOP_%": 36.5,
+    "STEP_m": 4.23,
+    "STEP_%": 29.3,
+    "JUMP_m": 4.93,
+    "JUMP_%": 34.2,
+    "TECHNIQUE": ""
+  },
+  {
+    "ATHLETE": "SD",
+    "HOP_m": 0.33,
+    "HOP_%": 1.7,
+    "STEP_m": 0.23,
+    "STEP_%": 1.0,
+    "JUMP_m": 0.31,
+    "JUMP_%": 1.2,
+    "TECHNIQUE": ""
+  }
+]

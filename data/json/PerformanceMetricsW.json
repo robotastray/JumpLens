@@ -1,0 +1,102 @@
+[
+  {
+    "athlete": "DEVETZI",
+    "nationality": "GRE",
+    "doff_m": 15.22,
+    "dttb_m": 0.03,
+    "deff_m": 15.25,
+    "trial_num": 3,
+    "wind_mps": 1.5,
+    "sb_m": 15.23
+  },
+  {
+    "athlete": "SAVIGNE",
+    "nationality": "CUB",
+    "doff_m": 15.15,
+    "dttb_m": 0.02,
+    "deff_m": 15.17,
+    "trial_num": 6,
+    "wind_mps": 1.5,
+    "sb_m": 15.20
+  },
+  {
+    "athlete": "SESTAK",
+    "nationality": "SLO",
+    "doff_m": 14.90,
+    "dttb_m": 0.07,
+    "deff_m": 14.97,
+    "trial_num": 2,
+    "wind_mps": 2.9,
+    "sb_m": 15.03
+  },
+  {
+    "athlete": "SALADUHA",
+    "nationality": "UKR",
+    "doff_m": 14.74,
+    "dttb_m": 0.04,
+    "deff_m": 14.78,
+    "trial_num": 3,
+    "wind_mps": 2.4,
+    "sb_m": 14.84
+  },
+  {
+    "athlete": "VELDAKOVA",
+    "nationality": "SVK",
+    "doff_m": 14.37,
+    "dttb_m": 0.07,
+    "deff_m": 14.44,
+    "trial_num": 4,
+    "wind_mps": 3.4,
+    "sb_m": 14.51
+  },
+  {
+    "athlete": "de OLIVEIRA",
+    "nationality": "BRA",
+    "doff_m": 14.21,
+    "dttb_m": 0.02,
+    "deff_m": 14.23,
+    "trial_num": 3,
+    "wind_mps": 3.5,
+    "sb_m": 14.28
+  },
+  {
+    "athlete": "KULYK",
+    "nationality": "UKR",
+    "doff_m": 14.00,
+    "dttb_m": 0.11,
+    "deff_m": 14.11,
+    "trial_num": 1,
+    "wind_mps": 3.2,
+    "sb_m": 14.24
+  },
+  {
+    "athlete": "TOPIC",
+    "nationality": "SRB",
+    "doff_m": 13.87,
+    "dttb_m": 0.27,
+    "deff_m": 14.14,
+    "trial_num": 6,
+    "wind_mps": 4.5,
+    "sb_m": 14.49
+  },
+  {
+    "athlete": "DIMITRAKI",
+    "nationality": "GRE",
+    "doff_m": 13.48,
+    "dttb_m": 0.02,
+    "deff_m": 13.50,
+    "trial_num": 1,
+    "wind_mps": 3.0,
+    "sb_m": 14.10
+  },
+  {
+    "athlete": "PANETA",
+    "nationality": "GRE",
+    "doff_m": 13.29,
+    "dttb_m": 0.23,
+    "deff_m": 13.52,
+    "trial_num": 3,
+    "wind_mps": 2.0,
+    "sb_m": 14.02
+  }
+]
