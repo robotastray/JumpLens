@@ -1,0 +1,66 @@
+ [
+    {
+      "COMPETITION": "WCH 1999",
+      "WINNER": 14.88,
+      "BRONZE": 14.61,
+      "EIGHTH_TO_QUALIFY": 14.38,
+      "QUALIFY_MARK": 14.20,
+      "GREATER_THAN_15M": 0
+    },
+    {
+      "COMPETITION": "OG 2000",
+      "WINNER": 15.20,
+      "BRONZE": 14.96,
+      "EIGHTH_TO_QUALIFY": 13.97,
+      "QUALIFY_MARK": 13.98,
+      "GREATER_THAN_15M": 2
+    },
+    {
+      "COMPETITION": "WCH 2001",
+      "WINNER": 15.25,
+      "BRONZE": 14.58,
+      "EIGHTH_TO_QUALIFY": 13.92,
+      "QUALIFY_MARK": 14.11,
+      "GREATER_THAN_15M": 1
+    },
+    {
+      "COMPETITION": "WCH 2003",
+      "WINNER": 15.18,
+      "BRONZE": 14.90,
+      "EIGHTH_TO_QUALIFY": 14.34,
+      "QUALIFY_MARK": 14.16,
+      "GREATER_THAN_15M": 2
+    },
+    {
+      "COMPETITION": "OG 2004",
+      "WINNER": 15.30,
+      "BRONZE": 15.14,
+      "EIGHTH_TO_QUALIFY": 14.79,
+      "QUALIFY_MARK": 14.52,
+      "GREATER_THAN_15M": 4
+    },
+    {
+      "COMPETITION": "WCH 2005",
+      "WINNER": 15.11,
+      "BRONZE": 14.78,
+      "EIGHTH_TO_QUALIFY": 14.31,
+      "QUALIFY_MARK": 14.11,
+      "GREATER_THAN_15M": 1
+    },
+    {
+      "COMPETITION": "WCH 2007",
+      "WINNER": 15.28,
+      "BRONZE": 15.04,
+      "EIGHTH_TO_QUALIFY": 14.50,
+      "QUALIFY_MARK": 14.20,
+      "GREATER_THAN_15M": 3
+    },
+    {
+      "COMPETITION": "OG 2008",
+      "WINNER": 15.39,
+      "BRONZE": 15.23,
+      "EIGHTH_TO_QUALIFY": 14.73,
+      "QUALIFY_MARK": 14.18,
+      "GREATER_THAN_15M": 6
+    }
+  ]

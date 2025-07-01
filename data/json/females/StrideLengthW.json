@@ -1,0 +1,14 @@
+[
+  {"ATHLETE": "DEVETZI", "1LS (m)": 1.92, "H (m)": 1.01, "UX (m/sec)": 8.68, "UY (m/sec)": 0.29},
+  {"ATHLETE": "SAVIGNE", "1LS (m)": 1.93, "H (m)": 1.01, "UX (m/sec)": 8.85, "UY (m/sec)": 0.24},
+  {"ATHLETE": "SESTAK", "1LS (m)": 1.93, "H (m)": 1.01, "UX (m/sec)": 8.28, "UY (m/sec)": 0.18},
+  {"ATHLETE": "SALADUHA", "1LS (m)": 2.06, "H (m)": 1.01, "UX (m/sec)": 8.31, "UY (m/sec)": 0.09},
+  {"ATHLETE": "VELDAKOVA", "1LS (m)": 2.06, "H (m)": 1.03, "UX (m/sec)": 8.44, "UY (m/sec)": 0.22},
+  {"ATHLETE": "de OLIVEIRA", "1LS (m)": 1.67, "H (m)": 0.95, "UX (m/sec)": 8.26, "UY (m/sec)": 0.25},
+  {"ATHLETE": "KULYK", "1LS (m)": 1.92, "H (m)": 0.93, "UX (m/sec)": 8.52, "UY (m/sec)": -0.09},
+  {"ATHLETE": "TOPIC", "1LS (m)": 2.22, "H (m)": "*", "UX (m/sec)": "*", "UY (m/sec)": "*"},
+  {"ATHLETE": "DIMITRAKI", "1LS (m)": 2.09, "H (m)": 1.05, "UX (m/sec)": 7.94, "UY (m/sec)": 0.33},
+  {"ATHLETE": "PANETA", "1LS (m)": 1.98, "H (m)": 0.94, "UX (m/sec)": 7.91, "UY (m/sec)": 0.17},
+  {"ATHLETE": "Mean (n=10)", "1LS (m)": 1.98, "H (m)": 0.99, "UX (m/sec)": 8.35, "UY (m/sec)": 0.19},
+  {"ATHLETE": "SD", "1LS (m)": 0.15, "H (m)": 0.04, "UX (m/sec)": 0.31, "UY (m/sec)": 0.13}
+]

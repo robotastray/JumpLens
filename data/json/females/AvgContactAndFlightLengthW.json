@@ -1,0 +1,74 @@
+[
+  {
+    "ATHLETE": "DEVETZI",
+    "LAST Support": 0.09, "STRI Flight": 0.09, "DE Support": 0.11,
+    "HOP Flight": 0.58, "STEP Support": 0.14, "JUMP Flight": 0.42,
+    "TOTAL Support": 0.14, "TIME Support": 0.39, "TIME Flight": 1.00
+  },
+  {
+    "ATHLETE": "SAVIGNE",
+    "LAST Support": 0.10, "STRI Flight": 0.12, "DE Support": 0.10,
+    "HOP Flight": 0.54, "STEP Support": 0.12, "JUMP Flight": 0.41,
+    "TOTAL Support": 0.15, "TIME Support": 0.37, "TIME Flight": 0.95
+  },
+  {
+    "ATHLETE": "SESTAK",
+    "LAST Support": 0.12, "STRI Flight": 0.11, "DE Support": 0.10,
+    "HOP Flight": 0.51, "STEP Support": 0.13, "JUMP Flight": 0.38,
+    "TOTAL Support": 0.14, "TIME Support": 0.37, "TIME Flight": 0.89
+  },
+  {
+    "ATHLETE": "SALADUHA",
+    "LAST Support": 0.12, "STRI Flight": 0.09, "DE Support": 0.13,
+    "HOP Flight": 0.58, "STEP Support": 0.16, "JUMP Flight": 0.42,
+    "TOTAL Support": 0.16, "TIME Support": 0.45, "TIME Flight": 1.00
+  },
+  {
+    "ATHLETE": "VELDAKOVA",
+    "LAST Support": 0.10, "STRI Flight": 0.12, "DE Support": 0.12,
+    "HOP Flight": 0.50, "STEP Support": 0.14, "JUMP Flight": 0.36,
+    "TOTAL Support": 0.15, "TIME Support": 0.41, "TIME Flight": 0.86
+  },
+  {
+    "ATHLETE": "de OLIVEIRA",
+    "LAST Support": 0.09, "STRI Flight": 0.10, "DE Support": 0.10,
+    "HOP Flight": 0.52, "STEP Support": 0.13, "JUMP Flight": 0.37,
+    "TOTAL Support": 0.13, "TIME Support": 0.36, "TIME Flight": 0.89
+  },
+  {
+    "ATHLETE": "KULYK",
+    "LAST Support": 0.12, "STRI Flight": 0.09, "DE Support": 0.12,
+    "HOP Flight": 0.59, "STEP Support": 0.16, "JUMP Flight": 0.38,
+    "TOTAL Support": 0.18, "TIME Support": 0.46, "TIME Flight": 0.97
+  },
+  {
+    "ATHLETE": "TOPIC",
+    "LAST Support": "*", "STRI Flight": "*", "DE Support": 0.12,
+    "HOP Flight": 0.51, "STEP Support": 0.14, "JUMP Flight": 0.41,
+    "TOTAL Support": 0.12, "TIME Support": 0.38, "TIME Flight": 0.92
+  },
+  {
+    "ATHLETE": "DIMITRAKI",
+    "LAST Support": 0.11, "STRI Flight": 0.11, "DE Support": 0.13,
+    "HOP Flight": 0.52, "STEP Support": 0.15, "JUMP Flight": 0.33,
+    "TOTAL Support": 0.17, "TIME Support": 0.45, "TIME Flight": 0.85
+  },
+  {
+    "ATHLETE": "PANETA",
+    "LAST Support": 0.11, "STRI Flight": 0.11, "DE Support": 0.12,
+    "HOP Flight": 0.53, "STEP Support": 0.15, "JUMP Flight": 0.32,
+    "TOTAL Support": 0.14, "TIME Support": 0.41, "TIME Flight": 0.85
+  },
+  {
+    "ATHLETE": "Mean (n=10)",
+    "LAST Support": 0.11, "STRI Flight": 0.10, "DE Support": 0.12,
+    "HOP Flight": 0.54, "STEP Support": 0.14, "JUMP Flight": 0.38,
+    "TOTAL Support": 0.15, "TIME Support": 0.41, "TIME Flight": 0.92
+  },
+  {
+    "ATHLETE": "SD",
+    "LAST Support": 0.01, "STRI Flight": 0.01, "DE Support": 0.01,
+    "HOP Flight": 0.03, "STEP Support": 0.01, "JUMP Flight": 0.04,
+    "TOTAL Support": 0.02, "TIME Support": 0.04, "TIME Flight": 0.06
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "ATHLETE": "DEVETZI",
+    "HOP ΔUX (m/sec)": -0.54, "HOP ΔUY (m/sec)": 2.91,
+    "STEP ΔUX (m/sec)": -0.14, "STEP ΔUY (m/sec)": 4.12,
+    "JUMP ΔUX (m/sec)": -0.74, "JUMP ΔUY (m/sec)": 4.09
+  },
+  {
+    "ATHLETE": "SAVIGNE",
+    "HOP ΔUX (m/sec)": -0.12, "HOP ΔUY (m/sec)": 2.66,
+    "STEP ΔUX (m/sec)": -0.53, "STEP ΔUY (m/sec)": 3.81,
+    "JUMP ΔUX (m/sec)": -1.16, "JUMP ΔUY (m/sec)": 3.62
+  },
+  {
+    "ATHLETE": "SESTAK",
+    "HOP ΔUX (m/sec)": -0.22, "HOP ΔUY (m/sec)": 2.61,
+    "STEP ΔUX (m/sec)": -0.50, "STEP ΔUY (m/sec)": 3.30,
+    "JUMP ΔUX (m/sec)": -1.27, "JUMP ΔUY (m/sec)": 3.65
+  },
+  {
+    "ATHLETE": "SALADUHA",
+    "HOP ΔUX (m/sec)": -0.82, "HOP ΔUY (m/sec)": 2.87,
+    "STEP ΔUX (m/sec)": -0.68, "STEP ΔUY (m/sec)": 3.73,
+    "JUMP ΔUX (m/sec)": -0.70, "JUMP ΔUY (m/sec)": 3.92
+  },
+  {
+    "ATHLETE": "VELDAKOVA",
+    "HOP ΔUX (m/sec)": -0.37, "HOP ΔUY (m/sec)": 2.48,
+    "STEP ΔUX (m/sec)": -0.32, "STEP ΔUY (m/sec)": 3.60,
+    "JUMP ΔUX (m/sec)": -1.03, "JUMP ΔUY (m/sec)": 3.49
+  },
+  {
+    "ATHLETE": "de OLIVEIRA",
+    "HOP ΔUX (m/sec)": -0.30, "HOP ΔUY (m/sec)": 2.34,
+    "STEP ΔUX (m/sec)": -0.53, "STEP ΔUY (m/sec)": 3.53,
+    "JUMP ΔUX (m/sec)": -1.11, "JUMP ΔUY (m/sec)": 3.13
+  },
+  {
+    "ATHLETE": "KULYK",
+    "HOP ΔUX (m/sec)": -0.49, "HOP ΔUY (m/sec)": 2.83,
+    "STEP ΔUX (m/sec)": -0.36, "STEP ΔUY (m/sec)": 3.67,
+    "JUMP ΔUX (m/sec)": -1.02, "JUMP ΔUY (m/sec)": 3.43
+  },
+  {
+    "ATHLETE": "TOPIC",
+    "HOP ΔUX (m/sec)": -0.62, "HOP ΔUY (m/sec)": 2.46,
+    "STEP ΔUX (m/sec)": -0.61, "STEP ΔUY (m/sec)": 3.59,
+    "JUMP ΔUX (m/sec)": -1.10, "JUMP ΔUY (m/sec)": 3.63
+  },
+  {
+    "ATHLETE": "DIMITRAKI",
+    "HOP ΔUX (m/sec)": -0.67, "HOP ΔUY (m/sec)": 2.87,
+    "STEP ΔUX (m/sec)": -0.32, "STEP ΔUY (m/sec)": 2.98,
+    "JUMP ΔUX (m/sec)": -1.35, "JUMP ΔUY (m/sec)": 3.81
+  },
+  {
+    "ATHLETE": "PANETA",
+    "HOP ΔUX (m/sec)": -0.64, "HOP ΔUY (m/sec)": 2.65,
+    "STEP ΔUX (m/sec)": -0.57, "STEP ΔUY (m/sec)": 3.14,
+    "JUMP ΔUX (m/sec)": -0.83, "JUMP ΔUY (m/sec)": 3.32
+  },
+  {
+    "ATHLETE": "Mean (n=10)",
+    "HOP ΔUX (m/sec)": -0.48, "HOP ΔUY (m/sec)": 2.67,
+    "STEP ΔUX (m/sec)": -0.46, "STEP ΔUY (m/sec)": 3.55,
+    "JUMP ΔUX (m/sec)": -1.03, "JUMP ΔUY (m/sec)": 3.61
+  },
+  {
+    "ATHLETE": "SD",
+    "HOP ΔUX (m/sec)": 0.2, "HOP ΔUY (m/sec)": 0.2,
+    "STEP ΔUX (m/sec)": 0.2, "STEP ΔUY (m/sec)": 0.3,
+    "JUMP ΔUX (m/sec)": 0.2, "JUMP ΔUY (m/sec)": 0.3
+  }
+]
